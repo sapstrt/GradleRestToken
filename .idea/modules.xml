@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GradleRestToken/GradleRestToken.iml" filepath="$PROJECT_DIR$/GradleRestToken/GradleRestToken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradleRestTokenProject.iml" filepath="$PROJECT_DIR$/GradleRestTokenProject.iml" />
+    </modules>
+  </component>
+</project>
+
